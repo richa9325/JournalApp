@@ -7,12 +7,12 @@ COPY . .
 
 RUN mvn clean package -DskipTests
 
-# --- Stage 2: Run only the JAR in a slim JDK image ---
-FROM openjdk:21.0.1-jdk-slim
+# --- Stage 2: Use a valid Java 21 JDK slim image ---
+FROM eclipse-temurin:21-jdk-jammy
 
 WORKDIR /app
 
-COPY --from=build /app/target/journalApp-0.0.1-SNAPSHOT.jar app.jar
+COPY --from=build /app/target/*.jar app.jar
 
 EXPOSE 8081
 
