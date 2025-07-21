@@ -1,0 +1,1 @@
+25-07-21 12:00:00.788 [scheduling-1] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:20, serverValue:59125}] to cluster0-shard-00-01.ldu4d.mongodb.net:27017 
