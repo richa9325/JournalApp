@@ -1,3 +1,0 @@
-25-07-14 11:09:00.669 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"] 
-25-07-14 11:09:00.700 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/journal' 
-25-07-14 11:09:00.724 [main] INFO  n.e.journalApp.JournalApplication - Started JournalApplication in 14.831 seconds (JVM running for 17.209) 

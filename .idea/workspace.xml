@@ -5,56 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cf26d11-3f58-4bff-ac98-bec09650ba0c" name="Changes" comment="Add application-template.yml and update EmailService">
-      <change beforePath="$PROJECT_DIR$/journalApp/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/journalApp/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/journalApp/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/API/Response/WeatherResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/Cache/AppCache.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/Constants/Placeholders.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/Filter/JwtFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/JournalApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/config/RedisConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/config/SpringSecurity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/controller/AdminController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/controller/JournalEntryController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/controller/PublicController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/entity/ConfigJournalAppEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/entity/JournalEntry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/entity/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/enums/Sentiment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/kafka/KafkaConsumer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/kafka/KafkaProducer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/model/SentimentData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/repository/ConfigJournalAppRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/repository/JournalEntryRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/repository/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/repository/UserRepositoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/scheduler/UserScheduler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/service/EmailService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/service/JournalEntryService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/service/RedisService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/service/SentimentConsumerService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/service/UserDetailsServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/service/WeatherService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/java/net/engineeringdigest/journalApp/utils/JwtUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/resources/application-template.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/main/resources/logback.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/test/java/net/engineeringdigest/journalApp/JournalAppApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/test/java/net/engineeringdigest/journalApp/Scheduler/UserScedulersTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/test/java/net/engineeringdigest/journalApp/repository/UserRepositoryImplTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/test/java/net/engineeringdigest/journalApp/service/EmailServiceTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/test/java/net/engineeringdigest/journalApp/service/RedisTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/test/java/net/engineeringdigest/journalApp/service/UserArgumentsProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/test/java/net/engineeringdigest/journalApp/service/UserServiceImplTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp/journalApp/src/test/java/net/engineeringdigest/journalApp/service/UserServiceTests.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/richaa/journalApp/JournalAppApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/richaa/journalApp/service/RedisTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/journalApp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/journalApp-25-05-21_21-05.0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/journalApp-25-05-22_23-52.0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/journalApp-25-05-22_23-53.0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/journalApp-25-05-22_23-55.0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/journalApp-25-05-30_15-39.0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/journalApp-25-05-30_15-40.0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/journalApp-25-07-14_11-08.0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/journalApp-25-07-14_11-09.0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/journalApp-25-07-14_11-11.0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/journalApp-25-07-14_11-14.0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/journalApp-25-07-16_13-06.0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/journalApp-25-07-18_13-06.0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/journalApp.log" beforeDir="false" afterPath="$PROJECT_DIR$/journalApp.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,20 +44,23 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/journalApp" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "richa9325"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;richa9325&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/richa9325/JournalApp",
-    "accountId": "81ede0e9-c4e6-4b99-bc7e-5c6a8c91e34d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/richa9325/JournalApp.git&quot;,
+    &quot;accountId&quot;: &quot;81ede0e9-c4e6-4b99-bc7e-5c6a8c91e34d&quot;
   }
-}]]></component>
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -120,15 +91,18 @@
     "Maven.journalApp [org.sonarsource.scanner.maven:sonar-maven-plugin:3.7.0.1746:help].executor": "Run",
     "Maven.journalApp [org.sonarsource.scanner.maven:sonar-maven-plugin:3.7.0.1746:sonar].executor": "Run",
     "Maven.journalApp [package].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/richa/Downloads/journalApp (2)/journalApp/src/main/resources",
+    "last_opened_file_path": "C:/Users/richa/Downloads/journalApp (2)",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -149,8 +123,8 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.JournalApplication">
-    <configuration name="JournalApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.engineeringdigest.journalApp.JournalApplication" />
+    <configuration name="JournalApplication" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.richaa.journalApp.JournalApplication" />
       <module name="journalApp" />
       <extension name="coverage">
         <pattern>
@@ -249,6 +223,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745180811147</updated>
+      <workItem from="1753084438140" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="Remove log files from repo">
       <option name="closed" value="true" />
@@ -274,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753080709958</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add application-template.yml and update EmailService">
+      <option name="closed" value="true" />
+      <created>1753093410910</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753093410911</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
