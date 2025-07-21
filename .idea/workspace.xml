@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cf26d11-3f58-4bff-ac98-bec09650ba0c" name="Changes" comment="Add application-template.yml and update EmailService">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/richaa/journalApp/JournalAppApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/richaa/journalApp/service/RedisTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp-25-05-21_21-05.0.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp-25-05-22_23-52.0.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp-25-05-22_23-53.0.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp-25-05-22_23-55.0.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp-25-05-30_15-39.0.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp-25-05-30_15-40.0.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp-25-07-14_11-08.0.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp-25-07-14_11-09.0.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp-25-07-14_11-11.0.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp-25-07-14_11-14.0.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp-25-07-16_13-06.0.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp-25-07-18_13-06.0.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/journalApp.log" beforeDir="false" afterPath="$PROJECT_DIR$/journalApp.log" afterDir="false" />
-    </list>
+    <list default="true" id="1cf26d11-3f58-4bff-ac98-bec09650ba0c" name="Changes" comment="Add application-template.yml and update EmailService" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
